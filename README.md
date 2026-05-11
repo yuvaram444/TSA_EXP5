@@ -142,4 +142,4 @@ OVERAL REPRESENTATION:
 
 
 ### RESULT:
-Thus we have created the python code for the time series analysis and decomposition.
+Thus we have created the python code for the time series analysis and decomposition.As the error is almost same over time, so it is eliminated.
